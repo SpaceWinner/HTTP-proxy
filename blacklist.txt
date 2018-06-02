@@ -1,0 +1,17 @@
+reklama\.e1
+googlead
+googlesynd
+reklama\.ngs
+criteo\.
+doubleclick\.
+an\.yandex
+2mdn\.
+ad\.mail
+r3\.mail
+target\.my\.
+symcd\.
+127.0.0.1:27500
+localhost:27500
+adleonbetsbmw\.com
+1xstavka\.ru
+adbetclickin
